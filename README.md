@@ -2,4 +2,4 @@
 
 Steps: 
 1. Run the build
-2. Inspect `dist/assets/index-*.js`. You will find all messages from `messages.js` included there.
+2. Inspect `dist/assets/index-*.js`. You will find all exports from `messages.js` included there.
